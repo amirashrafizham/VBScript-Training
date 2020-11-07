@@ -36,3 +36,6 @@ Case Else
 WScript.Echo "Please input a correct statement"
 WScript.Quit
 End Select
+
+
+'Remember if you use Select Case, your If and Then must be in the same line or else the programme doesn't work
