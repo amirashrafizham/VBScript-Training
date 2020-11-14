@@ -18,7 +18,8 @@ Next
 WScript.Echo ("You like to eat:"&food)
 
 '************** SECOND  EXAMPLE **************
-'This example shows how to use Exit For 
+'This example shows how to use Exit For SD
+
 
 Dim input2
 For counter = 0 to 3 
