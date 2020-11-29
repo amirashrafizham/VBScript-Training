@@ -1,0 +1,12 @@
+Test.vbs Error: 7, Description = Out of memory , Source = Microsoft VBScript runtime error
+Test.vbs Error: 7, Description = Out of memory , Source = Microsoft VBScript runtime error
+11/29/2020Test.vbs Error: 7, Description = Out of memory , Source = Microsoft VBScript runtime error
+11/29/2020Test.vbs Error: 7, Description = Out of memory , Source = Microsoft VBScript runtime error
+11/29/20207:32:14 PM Test.vbs Error: 7, Description = Out of memory , Source = Microsoft VBScript runtime error
+Date: 11/29/2020Time: 7:33:06 PM Test.vbs Error: 7, Description = Out of memory , Source = Microsoft VBScript runtime error
+Date: 11/29/2020Time: 7:33:57 PM
+ Test.vbs Error: 7, Description = Out of memory , Source = Microsoft VBScript runtime error
+Date: 11/29/2020, Time: 7:34:33 PM
+Test.vbs Error: 7, Description = Out of memory , Source = Microsoft VBScript runtime error
+Date: 11/29/2020, Time: 7:34:39 PM
+Test.vbs Error: 7, Description = Out of memory , Source = Microsoft VBScript runtime error
